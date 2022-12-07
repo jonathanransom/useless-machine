@@ -31,6 +31,9 @@ I made a custom PCB to make wiring simpler, but it could also be done on a proje
 ![PXL_20221205_195442777](https://user-images.githubusercontent.com/10393379/206232701-cce52b87-39f9-4c95-9ec5-095f94f3e421.jpg)
 ![PXL_20221205_195451715](https://user-images.githubusercontent.com/10393379/206232703-ed1dc7f3-e6d5-45b3-a4d7-2ea0a86793c3.jpg)
 ![PXL_20221205_195504690](https://user-images.githubusercontent.com/10393379/206232704-695682fb-104d-4956-ba74-4c0cdde6177b.jpg)
+![IMG_5534](https://user-images.githubusercontent.com/10393379/206263533-9c761836-e609-4ebd-817a-f546de94feeb.JPG)
+![IMG_5542](https://user-images.githubusercontent.com/10393379/206263576-624643db-9845-4dc8-8125-46e22085e9da.JPG)
+![IMG_5544](https://user-images.githubusercontent.com/10393379/206263600-28e6b743-5efb-4def-81d3-0baba457137f.JPG)
 
 I followed this tutorial to learn how to paint this box by [Van Oaks Props](https://www.youtube.com/watch?v=5AAf2Wq7Noc).
 
