@@ -3,8 +3,8 @@
 *As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links.*
 - All case parts were 3D printed on my resin printer, an [Elegoo Saturn S](https://amzn.to/3VGidTT).
 - [Elegoo Water Washable Resin](https://amzn.to/3VXQ8al)
-- [9g Micro Servos](https://amzn.to/3F7tMfL)
-- 3- [Mini Toggle Switch, SPST](https://amzn.to/3VJXEGb)
+- 3- [9g Micro Servos](https://amzn.to/3F7tMfL)
+- 1- [Mini Toggle Switch, SPST](https://amzn.to/3VJXEGb)
 - 1- [Arduino Pro Mini, 5v](https://amzn.to/3VGiRAW)
 - 1- [FTDI Programmer](https://amzn.to/3h4TAkI)
 - 1- [Hinge](https://amzn.to/3BheFiC)
